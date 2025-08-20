@@ -8,7 +8,7 @@ The following exercises walk through basic usage scenarios of git
 
 1. Create a new repository on your github account
 
-2. Clone this new repository by using the `git clone <repo address>` command. You can find the repo address by clicking on the green `Code` button on the main page of the repo.
+2. Clone this new repository by using the `git clone <repo address>` command. You can find the repo address by clicking on the green `Code` button on the main page of the repo. **Note: when you see <something> (i.e., something between angle brackets), this is a placeholder for a value you would fill in. So for example, if you see `cd <folder name>` and your folder name is Bob, then your command becomes `cd Bob` **
 
 ## Exercise 1: basic git usage
 
