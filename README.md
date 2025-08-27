@@ -12,7 +12,7 @@ The following exercises walk through basic usage scenarios of git
 
 ## Exercise 1: basic git usage
 
-1. Add any file in the cloned folder. Let's say `hello.py` and add any code to it.
+1. Add any file in the cloned folder. Let's say `hello.py` and add any code to it. You can use an editor or IDE to create the file, or directly create it on the command line using vim.
 
 2. Ask git to track this file by adding it to git's index: `git add hello.py`
 
